@@ -1,5 +1,5 @@
 # BestOfTheRest
-My first project https://genius-pending.github.io/BestOfTheRest/.
+My first project https://coreyjay98.github.io/BestOfTheRest/.
 
 Welcome to Best Of The Rest a brand new website which is going to change the way the UK eats out 
 
@@ -16,13 +16,14 @@ to their website to book a table.
 
 
 TECHNOLOGY USED:
-Uikit CSS framework
-HTML
-JavaScript/jQuery
-Zomato api
-Google maps api
-CSS animations
-Google Fonts
+
+-Uikit CSS framework
+-HTML
+-JavaScript/jQuery
+-Zomato api
+-Google maps api
+-CSS animations
+-Google Fonts
 
 ![](https://github.com/genius-pending/BestOfTheRest/blob/main/screenshot.png)
 
